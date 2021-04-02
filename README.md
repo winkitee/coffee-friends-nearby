@@ -1,6 +1,7 @@
 # Coffee Friends Nearby
 
  ### We built the Starbucks community application using the React Native Framework, Expo.
+ https://devpost.com/software/coffee-friends-nearby
 
  ![coffee friends nearby](https://firebasestorage.googleapis.com/v0/b/coffee-friends-nearby.appspot.com/o/images%2FThumbnail.png?alt=media&token=ef357838-9e5a-41eb-a28f-150f66481fdb)
 
